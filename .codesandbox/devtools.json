@@ -1,0 +1,14 @@
+{
+  "previews": {
+    "3000": {
+      "name": "First Project",
+      "command": "yarn start"
+    }
+  },
+  "tasks": {
+    "test": {
+      "name": "runtest",
+      "command": "yarn test"
+    }
+  }
+}
